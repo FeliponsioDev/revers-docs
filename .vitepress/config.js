@@ -19,7 +19,7 @@ export default {
       { text: 'Inicio', link: '/' },
       { text: 'Tienda', link: 'https://builtbybit.com', target: '_blank' },
       {
-        text: 'Versión',
+        text: 'Documentación',
         items: [
           { text: 'Español', link: '/es/' },
           { text: 'English', link: '/en/' }
