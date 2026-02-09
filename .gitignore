@@ -5,11 +5,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# Build outputs
-.vitepress/dist/
-.vitepress/cache/
-dist/
-build/
+
 
 # Environment variables
 .env
