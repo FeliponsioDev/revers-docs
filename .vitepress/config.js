@@ -1,6 +1,7 @@
 export default {
   title: "Revers Studio",
   description: "Official Documentation",
+  ignoreDeadLinks: true, 
 
   // Esta sección es la que carga el favicon en la pestaña del navegador
   head: [
